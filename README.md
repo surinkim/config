@@ -9,5 +9,5 @@ config backup
      
  2. astyle
     
-     -config
+     -astyle_config
 

@@ -1,3 +1,8 @@
+set enc=utf-8
+set fenc=utf-8
+set fencs=ucs-bom,utf-8,cp949,latin1
+
+set nobomb
 set noswapfile
 set nu
 colorscheme jellybeans

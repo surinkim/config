@@ -1,7 +1,0 @@
-# Remove below lines from vimrc_example.vim for 'preventing ~ extension file'.
-
-if has("vms")
-  set nobackup		" do not keep a backup file, use versions instead
-else
-  set backup		" keep a backup file
-endif
